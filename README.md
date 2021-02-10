@@ -13,3 +13,9 @@ Because it is an ASCOM client it may be able to control other ASCOM switches, bu
   <li>Displays current state of switch</li>
   <li>allows user to toggle on/off relays and read binary (on/off) sensors</li>
 </ul>
+<b> Installation</b>
+<ol>
+  <li>Make sure the Powerbuddy Driver is installed</li>
+  <li>Download Setup zip file</li>
+  <li>Unzip set-up file and run setup.exe</li>
+</ol>
